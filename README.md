@@ -9,7 +9,8 @@
 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) (in progress) | [Description](Median-of-Two-Sorted-Arrays/Description.md) <br> [Solution](Median-of-Two-Sorted-Arrays/solution.py)| python3 | ![#1589F0](https://via.placeholder.com/15/FF0000/000000?text=+) `Hard` | Runtime: 104 ms <br> Memory: 14.5 MB |
 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Description](Merge-Two-Sorted-Lists/Description.md) <br> [Solution](Merge-Two-Sorted-Lists/solution.py)| python3 | ![#f03c15](https://via.placeholder.com/15/00FF16/000000?text=+) `Easy` | Runtime: 48 ms <br> Memory: 14.1 MB |
 | [Minimum Elements to Add to Form a Given Sum](https://leetcode.com/problems/minimum-elements-to-add-to-form-a-given-sum/) | [Description](Minimum-Elements-to-Add-to-Form-a-Given-Sum/Description.md) <br> [Solution](Minimum-Elements-to-Add-to-Form-a-Given-Sum/solution.py)| python3 | ![#c5f015](https://via.placeholder.com/15/FFE200/000000?text=+) `Medium` | Runtime: 728 ms <br> Memory: 27 MB |
-| [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Description](Palindrome-Number/Description.md) <br> [Solution](Palindrome-Number/solution.py)| python3 | ![#f03c15](https://via.placeholder.com/15/00FF16/000000?text=+) `Easy` | Runtime: 80 ms <br> Memory: 14.1 MB |
+| [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Description](Palindrome-Number/Description.md) <br> [Solution](Palindrome-Number/solution.py)| python3 | ![#f03c15](https://via.placeholder.com/15/00FF16/000000?text=+) `Easy` | Runtime: 28 ms <br> Memory: 14.2 MB |
+| [Remove Element](https://leetcode.com/problems/remove-element/) | [Description](Remove-Element/Description.md) <br> [Solution](Remove-Element/solution.py)| python3 | ![#f03c15](https://via.placeholder.com/15/00FF16/000000?text=+) `Easy` | Runtime: 28 ms <br> Memory: 14.0 MB |
 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [Description](Reverse-Integer/Description.md) <br> [Solution](Reverse-Integer/solution.py)| python3 | ![#f03c15](https://via.placeholder.com/15/00FF16/000000?text=+) `Easy` | Runtime: 28 ms <br> Memory: 14.0 MB |
 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [Description](Roman-to-Integer/Description.md) <br> [Solution](Roman-to-Integer/solution.py)| python3 | ![#f03c15](https://via.placeholder.com/15/00FF16/000000?text=+) `Easy` | Runtime: 56 ms <br> Memory: 14.4 MB |
 | [Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome/) | [Description](Shortest-Palindrome/Description.md) <br> [Solution](Shortest-Palindrome/solution.py)| python3 | ![#1589F0](https://via.placeholder.com/15/FF0000/000000?text=+) `Hard` | Runtime: 576 ms <br> Memory: 14.6 MB |
@@ -19,17 +20,18 @@
 
 ### Checklist:
 
-- [ ] [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
-- [ ] [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
-- [x] [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/)
-- [x] [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)
-- [x] [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)
+- [x] [Reverse Integer](https://leetcode.com/problems/reverse-integer/) (04.08.21)
+- [ ] [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) (in progress)
+- [ ] [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) (in progress)
+- [x] [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/) (04.08.21)
+- [x] [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) (04.07.21)
+- [x] [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) (04.07.21)
 - [x] [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)
-- [x] [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
-- [x] [Minimum Elements to Add to Form a Given Sum](https://leetcode.com/problems/minimum-elements-to-add-to-form-a-given-sum/)
-- [x] [Reverse Integer](https://leetcode.com/problems/reverse-integer/)
-- [x] [Palindrome Number](https://leetcode.com/problems/palindrome-number/)
-- [x] [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)
-- [x] [Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome/)
-- [x] [Two Sum](https://leetcode.com/problems/two-sum/)
-- [x] [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
+- [x] [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) (04.06.21)
+- [x] [Minimum Elements to Add to Form a Given Sum](https://leetcode.com/problems/minimum-elements-to-add-to-form-a-given-sum/) (04.06.21)
+- [x] [Reverse Integer](https://leetcode.com/problems/reverse-integer/) (04.05.21)
+- [x] [Palindrome Number](https://leetcode.com/problems/palindrome-number/) (04.05.21)
+- [x] [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) (04.02.21)
+- [x] [Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome/) (04.03.21)
+- [x] [Two Sum](https://leetcode.com/problems/two-sum/) (04.03.21)
+- [x] [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) (04.02.21)
