@@ -18,4 +18,12 @@
 
 ### Problems to Start:
 
-[ ] [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)
+- [ ] [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)
+- [ ] [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)
+- [ ] [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)
+- [ ] [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
+- [ ] [Minimum Elements to Add to Form a Given Sum](https://leetcode.com/problems/minimum-elements-to-add-to-form-a-given-sum/)
+- [ ] [Palindrome Number](https://leetcode.com/problems/palindrome-number/)
+- [ ] [Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome/)
+- [ ] [Two Sum](https://leetcode.com/problems/two-sum/)
+- [ ] [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
