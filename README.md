@@ -15,12 +15,13 @@
 | [Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome/) | [Description](Shortest-Palindrome/Description.md) <br> [Solution](Shortest-Palindrome/solution.py)| python3 | ![#1589F0](https://via.placeholder.com/15/FF0000/000000?text=+) `Hard` | Runtime: 576 ms <br> Memory: 14.6 MB |
 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Description](Two-Sum/Description.md) <br> [Solution](Two-Sum/solution.py)| python3 | ![#f03c15](https://via.placeholder.com/15/00FF16/000000?text=+) `Easy` | Runtime: 44 ms <br> Memory: 14.2 MB |
 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Description](Valid-Parentheses/Description.md) <br> [Solution](Valid-Parentheses/solution.py)| python3 | ![#f03c15](https://via.placeholder.com/15/00FF16/000000?text=+) `Easy` | Runtime: 24 ms <br> Memory: 14.3 MB |
+| [ZigZag Conversion](https://leetcode.com/problems/zigZag-conversion/) | [Description](ZigZag-Conversion/Description.md) <br> [Solution](ZigZag-Conversion/solution.py)| python3 | ![#c5f015](https://via.placeholder.com/15/FFE200/000000?text=+) `Medium` | Runtime: 1212 ms <br> Memory: 14.8 MB |
 
 ### Checklist:
 
 - [ ] [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 - [ ] [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
-- [ ] [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/)
+- [x] [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/)
 - [x] [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)
 - [x] [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)
 - [x] [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)
