@@ -16,14 +16,16 @@
 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Description](Two-Sum/Description.md) <br> [Solution](Two-Sum/solution.py)| python3 | ![#f03c15](https://via.placeholder.com/15/00FF16/000000?text=+) `Easy` | Runtime: 44 ms <br> Memory: 14.2 MB |
 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Description](Valid-Parentheses/Description.md) <br> [Solution](Valid-Parentheses/solution.py)| python3 | ![#f03c15](https://via.placeholder.com/15/00FF16/000000?text=+) `Easy` | Runtime: 24 ms <br> Memory: 14.3 MB |
 
-### Problems to Start:
+### Checklist:
 
 - [ ] [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)
 - [ ] [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)
 - [ ] [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)
 - [ ] [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
 - [ ] [Minimum Elements to Add to Form a Given Sum](https://leetcode.com/problems/minimum-elements-to-add-to-form-a-given-sum/)
+- [ ] [Reverse Integer](https://leetcode.com/problems/reverse-integer/)
 - [ ] [Palindrome Number](https://leetcode.com/problems/palindrome-number/)
+- [ ] [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)
 - [ ] [Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome/)
 - [ ] [Two Sum](https://leetcode.com/problems/two-sum/)
 - [ ] [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
