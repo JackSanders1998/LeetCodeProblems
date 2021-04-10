@@ -18,6 +18,7 @@
 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/submissions/) | [Description](Search-Insert-Position/Description.md) <br> [Solution](Search-Insert-Position/solution.py)| python3 | ![#f03c15](https://via.placeholder.com/15/00FF16/000000?text=+) `Easy` | Runtime: 44 ms <br> Memory: 14.9 MB |
 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Description](Two-Sum/Description.md) <br> [Solution](Two-Sum/solution.py)| python3 | ![#f03c15](https://via.placeholder.com/15/00FF16/000000?text=+) `Easy` | Runtime: 44 ms <br> Memory: 14.2 MB |
 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Description](Valid-Parentheses/Description.md) <br> [Solution](Valid-Parentheses/solution.py)| python3 | ![#f03c15](https://via.placeholder.com/15/00FF16/000000?text=+) `Easy` | Runtime: 24 ms <br> Memory: 14.3 MB |
+| [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | [Description](Valid-Sudoku/Description.md) <br> [Solution](Valid-Sudoku/solution.py)| python3 | ![#1589F0](https://via.placeholder.com/15/FF0000/000000?text=+) `Hard` | Runtime: 92 ms <br> Memory: 14.4 MB |
 | [ZigZag Conversion](https://leetcode.com/problems/zigZag-conversion/) | [Description](ZigZag-Conversion/Description.md) <br> [Solution](ZigZag-Conversion/solution.py)| python3 | ![#c5f015](https://via.placeholder.com/15/FFE200/000000?text=+) `Medium` | Runtime: 1212 ms <br> Memory: 14.8 MB |
 
 ### Checklist:
